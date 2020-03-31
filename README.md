@@ -1,13 +1,12 @@
 # Data_Deciphers---Unilever-Sales-EQ-Data-Science-POC-Use-Case---Deep-Tech-Machine-Learning
 Determination of major drivers of sales and forecasting sales for next 6 periods
 
-[COPY] Data_Deciphers - Unilever Sales EQ Data Science POC Use Case - Deep Tech/Machine Learning
 
 **Project Title: Unilever Data Science POC Use Case** 
 
-** Problem Statement: ** The titled project is a part of the MishMash diversity hackathon and we are exposed, here, to a diverse set of problems. Firstly, one of Unilever’s brands is going through some major changes in business execution plans and to dive deeper, they want to know the major drivers of sales. Additionally, they also want to foresee sales for the coming six periods.  
+**Problem Statement:** The titled project is a part of the MishMash diversity hackathon and we are exposed, here, to a diverse set of problems. Firstly, one of Unilever’s brands is going through some major changes in business execution plans and to dive deeper, they want to know the major drivers of sales. Additionally, they also want to foresee sales for the coming six periods.  
 
-** Data Description: **  
+**Data Description:**  
 We are provided with four datasets:
 a) daily basis data (data-1) with 12000 rows and 38 columns,    
 b) A test dataset (data-2), based on some period (a period has 13 intervals and each interval reflects 4 weeks). 
