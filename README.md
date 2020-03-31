@@ -18,5 +18,5 @@ Let’s now move to the forecasting. Firstly, the time-steps in train (data-1) a
 **Results:** In the first part, we could successfully predict the sales and identified the major drivers. In total, three algorithms were attempted: Linear Regression (OLS), ElasticNet and XGBoost. Models from all the three landed up with same top seven features. By considering the majority vote, the top three drivers are: 1) Median_Rainfall, 2) Social_Search_Impressions and 3) pct_PromoMarketDollars_Category. As far the accuracy is concerned, the XGBoost regressor outperforms the other two, with an accuracy of 0.99.
 As expected, the larger data (data-1) leads to a model with more accurate forecasting capability. The ARIMA based model, here, forecasted with a MAPE of 26.3445. On the other hand, the model with smaller data (data-3) was found to be bit overfitted and projected sales with a MAPE of 44.2956.
 
-**Our Learnings:** Forecasting was completely new to the ‘Data_Deciphers’ and we were successfully able to cross this bottleneck. This hackathon surely elevated our confidence level as well as it improved our team working ability.
+**Project Learnings:** Forecasting was completely new to the ‘Data_Deciphers’ and we were successfully able to cross this bottleneck. This hackathon surely elevated our confidence level as well as it improved our team working ability.
 
