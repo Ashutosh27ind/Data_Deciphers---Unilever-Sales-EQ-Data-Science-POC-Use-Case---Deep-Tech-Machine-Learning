@@ -1,6 +1,7 @@
 # Data_Deciphers---Unilever-Sales-EQ-Data-Science-POC-Use-Case---Deep-Tech-Machine-Learning
 Determination of major drivers of sales and forecasting sales for next 6 periods
 
+![alt text](https://github.com/Ashutosh27ind/Data_Deciphers---Unilever-Sales-EQ-Data-Science-POC-Use-Case---Deep-Tech-Machine-Learning/blob/master/observed%20vs%20predicted%20sales%20TS.PNG?raw=true)
 
 **Project Title: Unilever Data Science POC Use Case** 
 
